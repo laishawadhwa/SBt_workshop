@@ -1,0 +1,35 @@
+{
+
+    "attributes" : [ {
+
+      "trait_type" : "NFT",
+
+      "value" : "Soulbound"
+
+    }, {
+
+      "trait_type" : "Asset",
+
+      "value" : "Non-transferable Badge"
+
+    }, {
+
+        "trait_type" : "Badge",
+
+        "value" : "Minting First Soulbound Token"
+
+      }, {
+
+        "trait_type" : "Type",
+
+        "value" : "Demo"
+
+      }   ],
+
+    "description" : "This is a soulbound token mint for Web3In X FITT, IIt Delhi Event",
+
+    "image" : "https://gateway.pinata.cloud/ipfs/QmTKz9J9SniaUjxvTa3eEAjcJ5bmJxKvZRFC1iNekheTXn",
+
+    "name" : "Soulbound Token - Web3In X FITT IIt Delhi"
+
+}
